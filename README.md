@@ -3,5 +3,5 @@
 
 ## Images
 <div style="display: inline;">
-  <img src="Images/Bild1.png height=300">
+  <img src="Images/Bild1.png" width=800>
 </div>
